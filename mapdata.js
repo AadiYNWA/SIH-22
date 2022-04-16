@@ -298,7 +298,7 @@ var simplemaps_countrymap_mapdata={
     },
     "34": {
       name: "Uttarakhand",
-      description: "Uttarakhand also known as Uttaranchal, is a state in the northern part of India. It is often referred to as the "Devbhumi" (literally "Land of the Gods") due to its religious significance and numerous Hindu temples and pilgrimage centers found throughout the state. Uttarakhand is known for the natural environment of the Himalayas, the Bhabar and the Terai regions.",
+      description: "Uttarakhand also known as Uttaranchal, is a state in the northern part of India. It is often referred to as the 'Devbhumi' (literally 'Land of the Gods') due to its religious significance and numerous Hindu temples and pilgrimage centers found throughout the state. Uttarakhand is known for the natural environment of the Himalayas, the Bhabar and the Terai regions.",
       color: "yellow",
       hover_color: "default",
       url: "uttrakhand.html"
