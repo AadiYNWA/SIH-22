@@ -298,7 +298,7 @@ var simplemaps_countrymap_mapdata={
     },
     "34": {
       name: "Uttarakhand",
-      description: "default",
+      description: "Uttarakhand also known as Uttaranchal, is a state in the northern part of India. It is often referred to as the "Devbhumi" (literally "Land of the Gods") due to its religious significance and numerous Hindu temples and pilgrimage centers found throughout the state. Uttarakhand is known for the natural environment of the Himalayas, the Bhabar and the Terai regions.",
       color: "yellow",
       hover_color: "default",
       url: "uttrakhand.html"
@@ -319,7 +319,7 @@ var simplemaps_countrymap_mapdata={
     },
     "37": {
       name: "Telangana",
-      description: "default",
+      description: "Telangana is a state in India situated on the south-central stretch of the Indian peninsula on the high Deccan Plateau. Located in the southern part of India, it is renowned for its natural attractions, temples, palaces, forts and other heritage sites. Hyderabad, the capital, it famously known for the Char Minars and the famous Hyderabadi Biryani.",
       color: "orange",
       hover_color: "default",
       url: "tel.html"
