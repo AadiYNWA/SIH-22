@@ -161,7 +161,7 @@ var simplemaps_countrymap_mapdata={
       description: "The name Haryana means the abode of God. It represents the face of modern India and is a vivid kaleidoscope of diverse landscapes, showcasing magnificent archaeology and celebrating art and culture. From being referred to as ‘heaven on earth’ in ancient Sanskrit texts to being the bedrock of Indus valley civilization, Haryana has one of the most unique histories.",
       color: "MediumPurple",
       hover_color: "default",
-      url: "harayana.html"
+      url: "haryana.html"
     },
     "14": {
       name: "Himachal Pradesh",
